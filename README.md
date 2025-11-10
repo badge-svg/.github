@@ -1,6 +1,6 @@
 # [Badge](https://badge.eu.org) [![Vercel](https://badge.eu.org/static/Badge/555?icon=badge&iconcolor=32CD32&textcolor=32CD32)](https://badge.eu.org)
 
-This is an identification tag based on SVG, It can quickly generate various labels and status identifiers
+This is an identification tag SVG based on node.js , It can quickly generate various labels and status identifiers.
 
 ---
 
